@@ -1,0 +1,12 @@
+gametime=1705007280
+situps=56892.4
+situps_ps=100
+situps_pc=401
+max_stamina=85
+curr_stamina=85
+stamina_ps=26.5
+item1=400
+item2=65
+item3=47
+item4=4
+item5=4
